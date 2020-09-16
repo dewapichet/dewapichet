@@ -1,7 +1,7 @@
 const Pi = 3.14
 console.log("Pi : ",Pi)
 let name = "john"
-name = ${Pi} jame
+name = `${Pi} jame`
 console.log(name)
 let arr = ['apple','banana']
 console.log("arr :",arr[0])
